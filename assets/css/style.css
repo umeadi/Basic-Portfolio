@@ -66,3 +66,14 @@ hr {
     line-height: 150%;
 
 }
+
+.foot {
+    background: #777777;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    border-top: #4aaaa5 6px solid;
+    margin-top: 88px;
+    padding: 10px;
+    padding-top: 47px;
+}
