@@ -73,7 +73,8 @@ hr {
     text-align: center;
     color: #ffffff;
     border-top: #4aaaa5 6px solid;
-    margin-top: 88px;
+    margin-top: 101px;
     padding: 10px;
-    padding-top: 47px;
+    padding-top: 30px;
+    font-size: small;
 }
